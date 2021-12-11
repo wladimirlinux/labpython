@@ -1,1 +1,1 @@
-Laboraotorio de python 
+Laboratorio de python 
